@@ -13,7 +13,7 @@
 
 [![Tommy Pang's github stats](https://github-readme-stats.vercel.app/api?username=tommycp96&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommycp96)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Visits Badge](https://badges.pufler.dev/visits/tommycp96/tommycp96)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/tommycp96/tommycp96)](https://github.com/tommycp96)
 
 <!--
 **tommycp96/tommycp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

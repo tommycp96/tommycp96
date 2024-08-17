@@ -10,9 +10,11 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/tommycp96/tommycp96)](https://github.com/tommycp96)
 
+<!--
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/tommycp96"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+-->
 
 <!--
 **tommycp96/tommycp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
